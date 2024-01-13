@@ -6,7 +6,8 @@ Yet another common lisp cheat sheet, not comprehensive, biased towards what I ne
 Copyright 2022-2023 Nicholas E. May
 
 This file is part of common-lisp-help.
-;;
+
+```
 ;; common-lisp-help is free software: you can redistribute it and/or modify it
 ;; under the terms of the GNU General Public License as published
 ;; by the Free Software Foundation, either version 3 of the License, or
@@ -19,10 +20,12 @@ This file is part of common-lisp-help.
 ;; See the GNU General Public License for more details.
 ;;
 ;; You should have received a copy of the GNU General Public License
-;; along with calmwater. If not, see <https://www.gnu.org/licenses/>.
+;; along with common-lisp-help. If not, see <https://www.gnu.org/licenses/>.
+```
 
+# benchmarking/timing
 
-
+`(time (hello))`
 
 # debugging & learning
 
