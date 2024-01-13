@@ -3,7 +3,7 @@ Yet another common lisp cheat sheet, not comprehensive, biased towards what I ne
 
 ## license
 
-Copyright 2022-2023 Nicholas E. May
+Copyright 2022-2024 Nicholas E. May
 
 This file is part of common-lisp-help.
 
